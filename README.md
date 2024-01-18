@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I've been building things since I started learning C++ and built some CLI tools. Its performance got me deep into programming until pointers
+pointed out C# for me. I'm currently on the look out for a role in software development, ideally backend development.
+
 <!--
 **manubetances/manubetances** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
