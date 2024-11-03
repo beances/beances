@@ -1,5 +1,13 @@
 # 🏌️ Manuel
 
+Hey there! I'm a software developer with a passion for creating immersive experiences. I believe that every project should feel like a little piece of art, blending functionality and creativity in a way that connects with people.
+
+##  Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,cs,dotnet,py,git,unreal,unity" />
+</p>
+
 <!--
 **manubetances/manubetances** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
